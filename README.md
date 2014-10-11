@@ -1,4 +1,4 @@
-HTTParty Suite
+HTTParty Test Suite
 ========
 
 This is a suite that’s tests the CRUD (Create, Read, Update, Delete) abilities of the http://lacedeamon.spartaglobal.com/todos website using HTTParty and RSpec.
